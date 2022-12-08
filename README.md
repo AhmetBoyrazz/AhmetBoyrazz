@@ -12,7 +12,9 @@
 - 📌 I'm 19 years old, from Germany  
   
 
-- ⚡ Always open to learning new things  
+- ⚡ Always open to learning new things 
+
+- 🎓 Never Stop Learning  
   
 
 <br/>  
