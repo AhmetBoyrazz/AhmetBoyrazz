@@ -67,7 +67,7 @@
 <br/>  
 </div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetboyrazz&hide_border=true&layout=compact" align="center" /></div>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetboyrazzz&show_icons=true&locale=en" alt="ahmetboyrazzz" /></p> 
 
 <br/>  
 
