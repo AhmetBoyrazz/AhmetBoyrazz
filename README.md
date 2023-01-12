@@ -54,7 +54,8 @@
 <a href="https://instagram.com/ahmetboyrz" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/https://gitlab.com/ahmetboyraz" target="_blank">
+<a href="https://gitlab.com/ahmetboyraz" target="_blank">
+<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </div>  
   
 
