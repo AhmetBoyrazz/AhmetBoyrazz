@@ -71,7 +71,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetboyrazz" alt="ahmetboyrazz" /></a> </p>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetboyrazz&" alt="ahmetboyrazz" /></p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ahmetboyrazz&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
 <br/>  
 
