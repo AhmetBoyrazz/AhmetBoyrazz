@@ -66,7 +66,13 @@
 
 
 ## Github Stats  
+<br/>  
+</div>  
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetboyrazz" alt="ahmetboyrazz" /></a> </p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetboyrazz&hide_border=true&layout=compact" align="center" /></div>
+ 
+</div> 
 
 <br/>  
 
