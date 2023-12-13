@@ -9,7 +9,7 @@
 - 🔭 I’m currently developing my self in Full-stack  
   
 
-- 📌 I'm 19 years old, from Germany  
+- 📌 I'm 20 years old, from Germany  
   
 
 - ⚡ Always open to learning new things 
